@@ -1,5 +1,5 @@
 #include <stdio.h> // <stdio.h> 라이브러리를 포한한다는 뜻이다.
-/*int main() // main함수를 시작한다.
+int main() // main함수를 시작한다.
 {
     printf("----오다영 2023041090----\n");
  char charType; // 문자형 변수 charType을 선언한다.
@@ -24,7 +24,7 @@
  printf("Size of float*: %ld bytes\n",sizeof(float*)); // float 포인터의 크기를 byte 단위로 출력한다.
  printf("Size of double*: %ld bytes\n",sizeof(double*)); // double 포인터의 크기를 byte 단위로 출력한다.
  return 0; // main함수가 종료되고 0값을 반환한다.
-}*/
+}
 
 #include <stdio.h> // <stdio.h> 라이브러리를 포한한다는 뜻이다.
 int main() // main함수를 시작한다.
